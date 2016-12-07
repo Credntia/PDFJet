@@ -1,4 +1,4 @@
-package com.pdfjet.pdfjet;
+package com.pdfjet.pdfjetsample;
 
 import org.junit.Test;
 

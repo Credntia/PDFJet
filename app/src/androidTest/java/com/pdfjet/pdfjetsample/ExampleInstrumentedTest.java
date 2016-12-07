@@ -1,4 +1,4 @@
-package com.pdfjet.pdfjet;
+package com.pdfjet.pdfjetsample;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
